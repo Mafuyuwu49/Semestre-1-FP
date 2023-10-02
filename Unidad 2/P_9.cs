@@ -13,13 +13,13 @@ namespace P_9 // Note: actual namespace depends on the project name.
             b = Convert.ToInt32(Console.ReadLine());
 
             s = a + b;
-            Console.WriteLine("La suma es igual a :" + s);
+            Console.WriteLine(" Suma es igual a :" + s);
             r = a - b;
-            Console.WriteLine("La resta es igual a :" + r);
+            Console.WriteLine(" Resta es igual a :" + r);
             m = a * b;
-            Console.WriteLine("La multiplicación es igual a :" + m);
+            Console.WriteLine(" Multiplicación es igual a :" + m);
             d = a / b;
-            Console.WriteLine("La división es igual a :" + d);
+            Console.WriteLine(" División es igual a :" + d);
         }
     }
 }
