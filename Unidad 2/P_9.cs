@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace P_9 // Note: actual namespace depends on the project name.
+namespace P_9 
 {
     internal class Calculadora
     {
