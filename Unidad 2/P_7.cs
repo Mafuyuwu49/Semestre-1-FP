@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace P_7 // Note: actual namespace depends on the project name.
+namespace P_7 
 {
     internal class Metros
     {
