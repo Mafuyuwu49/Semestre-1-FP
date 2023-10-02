@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace P_8 // Note: actual namespace depends on the project name.
+namespace P_8 // 
 {
     internal class IVA
     {
