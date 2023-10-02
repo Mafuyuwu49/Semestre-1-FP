@@ -5,7 +5,7 @@
  * tiene que ir entre "" comillas dobles*/
 using System;
 
-namespace P_4
+namespace P_3
 {
     internal class promedio
     {
