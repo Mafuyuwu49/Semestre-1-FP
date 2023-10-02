@@ -5,7 +5,7 @@
  * tiene que ir entre "" comillas dobles*/
 using System;
 
-namespace P_5
+namespace P_4
 {
     internal class Progrmam 
     {
