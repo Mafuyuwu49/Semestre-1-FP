@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace P_10 // Note: actual namespace depends on the project name.
+namespace P_10 
 {
     internal class Hexagono
     {
