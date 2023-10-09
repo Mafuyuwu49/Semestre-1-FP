@@ -2,14 +2,14 @@
 
 namespace P_10 
 {
-    internal class Hexagono
+    internal class Programa 10
     {
         static void Main(string[] args)
         {
-            int L, P, A, área;
+            int l, P, A, área;
             Console.WriteLine("Introuzca valor de uno de los lados");
-            L = Convert.ToInt32(Console.ReadLine());
-            P = L * 6;
+            l = Convert.ToInt32(Console.ReadLine());
+            P = l * 6;
             Console.WriteLine("Introducir valor de la apotema");
             A = Convert.ToInt32(Console.ReadLine());
             área = (P * A) / 2;
