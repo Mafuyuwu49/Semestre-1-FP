@@ -6,8 +6,6 @@ package com.mycompany.programa_5;
 
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class Programa 5 {
     public static void main(String[] args) {
         int a, b, c;
