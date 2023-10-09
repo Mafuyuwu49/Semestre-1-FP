@@ -17,13 +17,13 @@ namespace P_9
             Console.WriteLine("Introduce segundo valor");
             b = Convert.ToInt32(Console.ReadLine());
 
-            s = a + b;
+            l = a + b;
             Console.WriteLine(" Suma es igual a :" + l);
-            r = a - b;
+            o = a - b;
             Console.WriteLine(" Resta es igual a :" + o);
-            m = a * b;
+            v = a * b;
             Console.WriteLine(" Multiplicación es igual a :" + v);
-            d = a / b;
+            e = a / b;
             Console.WriteLine(" División es igual a :" + e);
         }
     }
