@@ -1,3 +1,8 @@
+﻿﻿//Comentarios en una linea
+/*Comentarios en bloque:
+ * Console en Writeline para imprimir
+ * Para imprimir texto sin variable
+ * tiene que ir entre "" comillas dobles*/
 ﻿using System;
 
 namespace P_10 
